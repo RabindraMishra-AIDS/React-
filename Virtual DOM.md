@@ -3,7 +3,7 @@ Currently Virtual DOM is not used as such in react.
 It will compare mainDOM and apna khud ka DOM and updates only those DOM which is updated in UI.
 
 
-//-------------------------- Page Reload---------------------------------------------
+//-------------------------- Page Reload--------------------------------------------
 
 Thus Browser removes the whole DOM and creates a new DOM (This is called as Page Reload)
 
