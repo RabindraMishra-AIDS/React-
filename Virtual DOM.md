@@ -29,7 +29,7 @@ This is called as Hydration Process
 **************************************** Reconciliation *********************************************
 The Algorithm the react uses to diff one tree with another to determine which Part to change.
 (React Tree v/s DOM Tree).
-The central idea os reacts API is to think of Updates as if they causue the entire app to re-render.
+The central idea of reacts API is to think of Updates as if they causue the entire app to re-render.
 
 
 ######################################## Key Components #################################################
