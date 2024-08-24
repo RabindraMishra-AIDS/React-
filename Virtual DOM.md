@@ -4,6 +4,7 @@ It will compare mainDOM and apna khud ka DOM and updates only those DOM which is
 
 
 //-------------------------- Page Reload---------------------------------------------
+
 Thus Browser removes the whole DOM and creates a new DOM (This is called as Page Reload)
 
 In virtual DOM we trace that tree like structure and then whatever changes has occured it will replace it with that DOM Element.
